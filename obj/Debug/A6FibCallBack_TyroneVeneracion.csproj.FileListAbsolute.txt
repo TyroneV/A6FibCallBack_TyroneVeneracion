@@ -1,0 +1,7 @@
+C:\Users\ZeroR\source\repos\A6FibCallBack_TyroneVeneracion\bin\Debug\A6FibCallBack_TyroneVeneracion.exe.config
+C:\Users\ZeroR\source\repos\A6FibCallBack_TyroneVeneracion\bin\Debug\A6FibCallBack_TyroneVeneracion.exe
+C:\Users\ZeroR\source\repos\A6FibCallBack_TyroneVeneracion\bin\Debug\A6FibCallBack_TyroneVeneracion.pdb
+C:\Users\ZeroR\source\repos\A6FibCallBack_TyroneVeneracion\obj\Debug\A6FibCallBack_TyroneVeneracion.csprojAssemblyReference.cache
+C:\Users\ZeroR\source\repos\A6FibCallBack_TyroneVeneracion\obj\Debug\A6FibCallBack_TyroneVeneracion.csproj.CoreCompileInputs.cache
+C:\Users\ZeroR\source\repos\A6FibCallBack_TyroneVeneracion\obj\Debug\A6FibCallBack_TyroneVeneracion.exe
+C:\Users\ZeroR\source\repos\A6FibCallBack_TyroneVeneracion\obj\Debug\A6FibCallBack_TyroneVeneracion.pdb
